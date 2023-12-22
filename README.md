@@ -7,7 +7,7 @@
 - ⚡ Future Tech Explorer
 <br /><br />
 
-[![](https://visitcount.itsvg.in/api?id=Rajmulik511&icon=10&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Rajmulik511&icon=10&color=1)] <!---(https://visitcount.itsvg.in)-->
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raj-mulik-4675a6158) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rajmulik7.io) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Raj_Mulik) 
 
